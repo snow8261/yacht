@@ -904,15 +904,19 @@ a.accordion-toggle  i{
 
 .tab-wrap{
   border:1px solid #e6e6e6;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .tab-content{
-  padding: 20px;
+  padding: 40px;
 }
 
 .tab-content h2{
   margin-top: 0;
+}
+
+.tab-content p{
+ color:#111111;
 }
 
 .tab-content img{
